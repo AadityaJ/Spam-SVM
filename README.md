@@ -6,4 +6,4 @@ The project was done as a part of [Stanford ML Course on Coursera](https://www.c
 ### Overview
 The project consists of 3 datasets .The first dataset uses basic __linear__ decision boundary where the __C value__ is constant. The second dataset involves using a Gaussian kernel which is based on __linearly inseparable dataset__.The 3rd dataset is more advance once requiring the use of both.
 ### Further Reading
-For further reading please refer to [this pdf](https://github.com/AadityaJ/Spam-SVM/)  
+For further reading please refer to [this pdf](https://github.com/AadityaJ/Spam-SVM/blob/master/spam-svm.pdf)  
